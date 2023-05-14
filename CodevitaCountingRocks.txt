@@ -1,3 +1,6 @@
+#CodevitaQuestion
+
+
 samples, ranges =[int(i) for i in input().split()]
 count = 0
 final = []
